@@ -9,7 +9,7 @@
 Estou em **transição ativa para desenvolvimento de software**, com foco em **Backend**.  
 Curso Ciência da Computação na FAM e me especializo em Python e Java através do **Bootcamp Santander 2026 AI Java Backend (DIO)** e da comunidade Dev Completo.
 
-Tenho um diferencial que a maioria dos devs júnior não tem: **experiência real em operações de TI e sistemas corporativos** — NOC, dados com SAP ERP, Salesforce e integração entre sistemas. Isso me dá visão de como o backend impacta o negócio de ponta a ponta.
+Tenho um diferencial que a maioria dos devs júnior não tem: **experiência real em operações de TI e sistemas corporativos** NOC, dados com SAP ERP, Salesforce e integração entre sistemas. Isso me dá visão de como o backend impacta o negócio de ponta a ponta.
 
 ---
 
